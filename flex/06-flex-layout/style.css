@@ -25,7 +25,7 @@ a {
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 8px;
+  padding: 10px 15px;
 }
 
 .footer {
@@ -36,7 +36,7 @@ a {
 .right-links {
   display: flex;
   justify-content: space-between;
-  gap: 8px;
+  gap: 10px;
 }
 
 .content {
@@ -57,6 +57,7 @@ button {
   border-radius: 8px;
   background: #eee;
   padding: 8px 10px;
+  margin: 0px 8px;
 }
 
 input {
@@ -64,5 +65,5 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
